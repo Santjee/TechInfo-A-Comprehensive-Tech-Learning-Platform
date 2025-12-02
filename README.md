@@ -1,13 +1,7 @@
 # TechInfo-A-Comprehensive-Tech-Learning-Platform
 
 📌 Overview
-TechInfo is a web-based platform designed to provide insightful resources on Java, Python, Web Technologies, and Database Programming. It serves as an interactive knowledge hub for developers and tech enthusiasts.
-
-🚀 Features
-✅ Categorized posts on programming languages & technologies
-✅ Secure login/logout system
-✅ Well-structured UI for seamless navigation
-✅ Dynamic content rendering using JSP & Servlets
+Developed  “TechInfo,” a dynamic full-stack web platform providing structured learning content on Java, Python, SQL, and Web Technologies. Built responsive UI components using HTML, CSS, and JavaScript, and implemented backend logic with Java, Servlets, and JSP for secure login, session handling, and dynamic content rendering. Designed and optimized MySQL databases for efficient data storage and retrieval. I also developed some other projects and gained additional hands-on experiences during my internship, including working on mini full-stack modules, CRUD operations, UI/UX improvements, and internal tool enhancements. This internship strengthened my technical foundation, improved my problem-solving skills, and gave me real exposure to collaborative full-stack development in a professional environment.
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
